@@ -1,0 +1,52 @@
+body{
+    font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px auto 20px auto;
+    background-image: url(image/bus.webp);
+    background-size: cover;
+   
+}
+
+.container{
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 20%;
+    border:2px solid black;
+    border-radius: 20px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+h2{
+    margin:0 auto;
+    font-size: 50px;
+}
+button{
+    
+    color: white;
+    border-radius: 4px;
+    display:flex;
+    font-weight: bold;
+  
+}
+
+#increment-btn {
+    background-color: darkred;
+    margin: 12px auto;
+    padding: 10px 10px;
+}
+
+#save-btn{
+    background-color: darkgreen;
+    margin: auto;
+    padding: 8px 32px;
+    
+}
+#save-el{
+    font-weight: bold;
+}
+
